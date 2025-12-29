@@ -1,4 +1,4 @@
-# [OK] Initializing Developer: Valence 🚀
+# [OK] Initializing Developer: Valence
 ```python
 class Valence:
     """
